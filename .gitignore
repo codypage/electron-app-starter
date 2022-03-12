@@ -1,1 +1,17 @@
+*.tgz
+*.log
+.build/
+.coverage/
+.DS_Store
+.dynamodb/
+.env
+.idea/
+.serverless/
+.webpack/
+coverage/
+dist/
+node_modules/
+package/
+report/
+kb.xml
 my.bat
